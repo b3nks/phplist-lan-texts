@@ -18,7 +18,7 @@ $strEnterName           = 'Bitte geben Sie ihren Namen ein';
 $strEnterEmail          = 'Bitte geben Sie ihre E-Mail Adresse ein';
 $strConfirmEmail        = 'E-Mail bestätigen';
 $strInvalidHostInEmail  = 'Entschuldigung, aber E-Mail an diese Adresse ist unzustellbar. Bitte prüfen Sie Ihre Adresse erneut.';
-$strEnterList           = 'Bitte wählen Sie ein Liste aus, bei der Sie sich anmelden wollen';
+$strEnterList           = 'Bitte wählen Sie eine Liste aus, bei der Sie sich anmelden wollen';
 $strPleaseEnter         = 'Bitte geben Sie ein';
 # the thanks message can contain placeholders
 #$strThanks              = 'Liebe/lieber [FIRST NAME], <br/>Danke, dass sie sich für unsere Listen angemeldet haben.';
